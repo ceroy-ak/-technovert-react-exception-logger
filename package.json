@@ -1,6 +1,6 @@
 {
   "name": "@ceroy/react-exception-logger",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An Exception Logger which is a wrapper over the Azure App Insights to provide an easy integration for react applications",
   "main": "dist/index.js",
   "scripts": {
@@ -26,6 +26,8 @@
   },
   "homepage": "https://github.com/ceroy-ak/react-exception-logger",
   "keywords": [
-    "React", "Azure App Insights", "React Exception Logger"
+    "React",
+    "Azure App Insights",
+    "React Exception Logger"
   ]
 }
