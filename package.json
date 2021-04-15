@@ -1,0 +1,29 @@
+{
+  "name": "@ceroy/react-exception-logger",
+  "version": "1.0.0",
+  "description": "An Exception Logger which is a wrapper over the Azure App Insights to provide an easy integration for react applications",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc -p ."
+  },
+  "author": "Ceroy",
+  "license": "MIT",
+  "types": "dist",
+  "devDependencies": {
+    "@types/react": "^17.0.3",
+    "typescript": "^4.2.4"
+  },
+
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ceroy-ak/react-exception-logger.git"
+  },
+  "dependencies": {
+    "@microsoft/applicationinsights-web": "^2.6.1",
+    "react": "^17.0.2"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "homepage": ""
+}
