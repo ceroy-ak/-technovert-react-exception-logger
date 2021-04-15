@@ -13,7 +13,6 @@
     "@types/react": "^17.0.3",
     "typescript": "^4.2.4"
   },
-
   "repository": {
     "type": "git",
     "url": "https://github.com/ceroy-ak/react-exception-logger.git"
@@ -25,5 +24,8 @@
   "publishConfig": {
     "access": "public"
   },
-  "homepage": ""
+  "homepage": "https://github.com/ceroy-ak/react-exception-logger",
+  "keywords": [
+    "React", "Azure App Insights", "React Exception Logger"
+  ]
 }
