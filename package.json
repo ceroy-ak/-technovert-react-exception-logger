@@ -25,7 +25,7 @@
   "publishConfig": {
     "access": "public"
   },
-  "homepage": "https://github.com/ceroy-ak/react-exception-logger",
+  "homepage": "https://github.com/ceroy-ak/react-exception-logger#readme",
   "keywords": [
     "React",
     "Azure App Insights",
