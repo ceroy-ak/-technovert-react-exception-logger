@@ -1,6 +1,12 @@
 import { ApplicationInsights, IConfig, SeverityLevel } from '@microsoft/applicationinsights-web';
 import * as React from 'react';
 
+
+/**
+ * Re-Exporting the SeverityLevel and IConfig
+ */
+export { SeverityLevel, IConfig }
+
 /**
  * type for the logException Function
  */
