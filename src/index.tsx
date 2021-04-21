@@ -1,11 +1,12 @@
-import { ApplicationInsights, IConfig, SeverityLevel } from '@microsoft/applicationinsights-web';
+import { ApplicationInsights, IConfig, SeverityLevel, DistributedTracingModes } from '@microsoft/applicationinsights-web';
+import { ICookieMgrConfig } from '@microsoft/applicationinsights-core-js';
 import * as React from 'react';
 
 
 /**
  * Re-Exporting the SeverityLevel and IConfig
  */
-export { SeverityLevel, IConfig }
+export { SeverityLevel, IConfig, DistributedTracingModes, ICookieMgrConfig }
 
 /**
  * type for the logException Function
